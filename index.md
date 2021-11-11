@@ -2,7 +2,7 @@
 
 You can download different versions of Mac OS here!
 
-All files are virus checked and hosted on GitHub by me!
+All files are virus checked and hosted on DepositFiles by me!
 
 ### The backstory
 
