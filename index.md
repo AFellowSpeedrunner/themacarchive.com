@@ -12,6 +12,9 @@ I decided to make the archive because I was looking for some versions of [Mac OS
 
 I haven't got any yet and mainly because I'm working on the site but I am uploading [10.0](https://en.wikipedia.org/wiki/Mac_OS_X_10.0) right now!
 
-### Offical Websites for the Operating Systems (NOT FIGURED OUT YET!!!)
+### Offical Websites for the Operating Systems (NOT ALL THERE!!!)
 
 [OS X 10.0](https://web.archive.org/web/20010629214227/http://www.apple.com/macosx/)
+[OS X 10.1](https://web.archive.org/web/20011117192235/http://www.apple.com/macosx/)
+[OS X 10.2](https://web.archive.org/web/20030401082613/http://www.apple.com/macosx/)
+[OS X 10.3](https://web.archive.org/web/20050111015225/http://www.apple.com/macosx/)
