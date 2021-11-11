@@ -10,4 +10,4 @@ I decided to make the archive because I was looking for some versions of Mac OS 
 
 ### Versions I've uploaded so far
 
-I haven't got any yet and mainly because I'm working on the site but I'll have some very soon! I still have them!
+I haven't got any yet and mainly because I'm working on the site but I am uploading 10.0 right now!
