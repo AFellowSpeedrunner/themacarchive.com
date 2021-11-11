@@ -14,4 +14,4 @@ I haven't got any yet and mainly because I'm working on the site but I am upload
 
 ### Offical Websites for the Operating Systems
 
-[OS X 10.0](OS100SITE.md)
+[OS X 10.0](https://afellowspeedrunner.github.io/themacarchive.com/OS100SITE.md)
