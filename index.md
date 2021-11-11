@@ -12,6 +12,6 @@ I decided to make the archive because I was looking for some versions of [Mac OS
 
 I haven't got any yet and mainly because I'm working on the site but I am uploading [10.0](https://en.wikipedia.org/wiki/Mac_OS_X_10.0) right now!
 
-### Offical Websites for the Operating Systems
+### Offical Websites for the Operating Systems (NOT FIGURED OUT YET!!!)
 
 [OS X 10.0](https://afellowspeedrunner.github.io/themacarchive.com/OSX100SITE.md)
