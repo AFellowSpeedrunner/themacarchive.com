@@ -4,6 +4,9 @@ You can download different versions of [Mac OS](https://en.wikipedia.org/wiki/Ma
 
 All files are virus checked and hosted on [DepositFiles](https://dfiles.eu/) by me!
 
+Due to DepositFiles having a STUPID STUPID limitation I recommend using IDM "Internet Download Manager" to get faster speeds.
+
+
 ### The backstory
 
 I decided to make the archive because I was looking for some versions of [Mac OS](https://en.wikipedia.org/wiki/MacOS) and I couldn't find the version for 2 HOURS. I finally did find one and thought "Huh, why don't make an archive for this kinda stuff. I have a lot of versions so it would be nice to help people!" and so here I am! I hope you like the archive! Enjoy using [Mac OS](https://en.wikipedia.org/wiki/MacOS)!
