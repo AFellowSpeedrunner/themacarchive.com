@@ -15,6 +15,12 @@ I decided to make the archive because I was looking for some versions of [Mac OS
 
 If you want to run versions 10.0 to 10.3 or before 10.0 then you need a PowerPC emulator like [QEMU](https://www.qemu.org/)
 
+[Mac OS 7](http://depositfiles.com/files/wkje79dis)
+
+[Mac OS 8](http://depositfiles.com/files/k7g8nh37p)
+
+[Mac OS 9](http://depositfiles.com/files/2a35avwlu)
+
 [Mac OS X 10.0](http://depositfiles.com/files/r91j0xdhm)
 
 ### Offical Websites for the Operating Systems (NOT ALL THERE!!!)
