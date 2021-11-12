@@ -13,7 +13,7 @@ I decided to make the archive because I was looking for some versions of [Mac OS
 
 ### Versions I've uploaded so far
 
-If you want to run versions 10.0 to 10.3 or before 10.0 then you need a PowerPC emulator like [QEMU](https://www.qemu.org/)
+If you want to run versions OS 7 to OS X 10.0 then you need a PowerPC emulator like [QEMU](https://www.qemu.org/)
 
 [Mac OS 7](http://depositfiles.com/files/wkje79dis)
 
