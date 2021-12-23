@@ -2,9 +2,11 @@
 
 You can download different versions of [Mac OS](https://en.wikipedia.org/wiki/MacOS) here!
 
-All files are virus checked and hosted on [DepositFiles](https://dfiles.eu/) by me!
+All files are virus checked and hosted on [The Internet Archive](https://archive.org) by me!
 
 Due to DepositFiles having a STUPID STUPID limitation I will be now moving files to archive.org either known as The Internet Archive! I also learned that DepositFiles delete files after 1 year so I will be moving them over. I will bring the site download links offline. Meanwhile, you can look at the Archived OS X pages in links that to The Wayback Machine.
+
+Update: OS 7 is now up and is ready to be downloaded by the public on The Internet Archive! The plan is to upload them and link them to the pages as they come online!
 
 
 ### The backstory
@@ -15,7 +17,7 @@ I decided to make the archive because I was looking for some versions of [Mac OS
 
 If you want to run versions System 1 to OS X 10.3 then you need a PowerPC emulator like [QEMU](https://www.qemu.org/)
 
-[Mac OS 7]()
+[Mac OS 7](https://archive.org/details/os-7-install-cd)
 
 [Mac OS 8]()
 
