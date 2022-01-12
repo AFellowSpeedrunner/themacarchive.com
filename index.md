@@ -23,7 +23,7 @@ If you want to run versions System 1 to OS X 10.3 then you need a PowerPC emulat
 
 [Mac OS 9](https://archive.org/details/os-9-install-cd)
 
-[Mac OS X 10.0]()
+[Mac OS X 10.0](error.md)
 
 ### Offical Websites for the Operating Systems (NOT ALL THERE!!!)
 
