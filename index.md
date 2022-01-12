@@ -5,7 +5,7 @@ You can download different versions of [Mac OS](https://en.wikipedia.org/wiki/Ma
 All files are virus checked and hosted on [The Internet Archive](https://archive.org) by me!
 
 ### Updates 
-OS X 10.0 is now up and is ready to be downloaded by the public on The Internet Archive! All versions uploaded before on DepositFiles are now trasferred to The Internet Archive and along with that all websites for Mac OS releases that I could find are now linked! System 6 and below do not have websites as well... it is obvious... Anyways, have fun using the Mac Archive! Bye!
+OS X 10.0 is now up and is ready to be downloaded by the public on The Internet Archive! All versions uploaded before on DepositFiles are now transferred to The Internet Archive and along with that all websites for Mac OS releases that I could find are now linked! System 6 and below do not have websites as well... it is obvious... Anyways, have fun using the Mac Archive! Bye!
 
 
 ### The backstory
