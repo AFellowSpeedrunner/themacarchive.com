@@ -1,5 +1,6 @@
 ## Uh-oh! An error occurred!
 
 This webpage couldn't be redirected or found on the server!
-Click [here](href="javascript:history.back(1)")to return to the previous page!
+You will be redirected to the home page in 5 seconds.
+<meta http-equiv="refresh" content="5;url=https://afellowspeedrunner.github.io/themacarchive.com/" />
 
