@@ -16,14 +16,17 @@ I decided to make the archive because I was looking for some versions of [Mac OS
 
 If you want to run versions System 1 to OS X 10.3 then you need a PowerPC emulator like [QEMU](https://www.qemu.org/)
 
-[Mac OS 7](https://archive.org/details/os-7-install-cd)
+[Mac OS 7 (PowerPC Only)](https://archive.org/details/os-7-install-cd)
 
-[Mac OS 8](https://archive.org/details/os-8-install-cd)
+[Mac OS 8 (PowerPC Only)](https://archive.org/details/os-8-install-cd)
 
-[Mac OS 9](https://archive.org/details/os-9-install-cd)
+[Mac OS 9 (PowerPC Only)](https://archive.org/details/os-9-install-cd)
 
-[Mac OS X 10.0](https://archive.org/details/os-x-10.0-install-cd)
+[Mac OS X 10.0 (PowerPC Only)](https://archive.org/details/os-x-10.0-install-cd)
 
+[Mac OS X 10.4 (PowerPC Version)](https://archive.org/details/os-x-10.4-ppc-g4-install-cd)
+
+[Mac OS X 10.4 (Intel Version) coming soon as well]()
 ### Official Websites for Operating System Releases
 
 [OS 7 (Wayback Machine)](https://web.archive.org/web/19970412143953/http://macos.apple.com:80/macos/releases.html)
