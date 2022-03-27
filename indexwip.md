@@ -1,6 +1,6 @@
 ## Welcome to [The Mac Archive](https://afellowspeedrunner.github.io/themacarchive.com)!
 
-You can download different versions of [Mac OS](https://en.wikipedia.org/wiki/MacOS) here!
+You can download different versions of [Mac OS](https://en.wikipedia.org/wiki/MacOS) releases here such as Internal Builds, Beta Builds, PPC Builds and more here!
 
 All files are virus checked and hosted on [The Internet Archive](https://archive.org) by me!
 
