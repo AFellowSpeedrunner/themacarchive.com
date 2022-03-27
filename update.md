@@ -1,3 +1,3 @@
-## The Mac Archive
+## Uh-oh! An error occurred!
 
-The site is being updated so it's been taken offline for now. You can browse a backup of the site here though!
+The site has been taken down for now because I am updating it! You can still look at an earlier backup over [here](indexbackup.md)!
