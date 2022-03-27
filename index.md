@@ -5,7 +5,7 @@ You can download different versions of [Mac OS](https://en.wikipedia.org/wiki/Ma
 All files are virus checked and hosted on [The Internet Archive](https://archive.org) by me!
 
 ### Updates 
-OS X 10.0 is now up and is ready to be downloaded by the public on The Internet Archive! All versions uploaded before on DepositFiles are now transferred to The Internet Archive and along with that all websites for Mac OS releases that I could find are now linked! System 6 and below do not have websites as well... it is obvious... Anyways, have fun using the Mac Archive! Bye!
+OS X 10.4 Intel Release will be avaliable soon!
 
 
 ### The backstory
@@ -26,7 +26,7 @@ If you want to run versions System 1 to OS X 10.3 then you need a PowerPC emulat
 
 [Mac OS X 10.4 (PowerPC Version)](https://archive.org/details/os-x-10.4-ppc-g4-install-cd)
 
-[Mac OS X 10.4 (Intel Version) coming soon as well]()
+[Mac OS X 10.4 (Intel Version) coming soon as well](error.md)
 ### Official Websites for Operating System Releases
 
 [OS 7 (Wayback Machine)](https://web.archive.org/web/19970412143953/http://macos.apple.com:80/macos/releases.html)
