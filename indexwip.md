@@ -14,9 +14,11 @@ I decided to make the archive because I was looking for some versions of [Mac OS
 
 ### [Main Releases](main.md)
 
+### [PPC Releases]()
+
 ### [Internal Releases](error.md)
 
-### [Beta Builds](error.md)
+### [Beta Releases](error.md)
 
 ### Official Websites for Operating System Releases
 
