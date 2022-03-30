@@ -12,21 +12,12 @@ OS X 10.4 Intel Release will be avaliable soon!
 
 I decided to make the archive because I was looking for some versions of [Mac OS](https://en.wikipedia.org/wiki/MacOS) and I couldn't find the version for 2 HOURS. I finally did find one and thought "Huh, why don't make an archive for this kinda stuff. I have a lot of versions so it would be nice to help people!" and so here I am! I hope you like the archive! Enjoy using [Mac OS](https://en.wikipedia.org/wiki/MacOS)!
 
-### Versions I've uploaded so far
+### [Main Releases](main.md)
 
-If you want to run versions System 1 to OS X 10.3 then you need a PowerPC emulator like [QEMU](https://www.qemu.org/)
+### [Internal Releases](error.md)
 
-[Mac OS 7 (PowerPC Only)](https://archive.org/details/os-7-install-cd)
+### [Beta Builds](error.md)
 
-[Mac OS 8 (PowerPC Only)](https://archive.org/details/os-8-install-cd)
-
-[Mac OS 9 (PowerPC Only)](https://archive.org/details/os-9-install-cd)
-
-[Mac OS X 10.0 (PowerPC Only)](https://archive.org/details/os-x-10.0-install-cd)
-
-[Mac OS X 10.4 (PowerPC Version)](https://archive.org/details/os-x-10.4-ppc-g4-install-cd)
-
-[Mac OS X 10.4 (Intel Version) coming soon as well](error.md)
 ### Official Websites for Operating System Releases
 
 [OS 7 (Wayback Machine)](https://web.archive.org/web/19970412143953/http://macos.apple.com:80/macos/releases.html)
