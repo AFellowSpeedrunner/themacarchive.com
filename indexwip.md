@@ -14,7 +14,7 @@ I decided to make the archive because I was looking for some versions of [Mac OS
 
 ### [Main Releases](main.md)
 
-### [PPC Releases]()
+### [PPC Releases](ppc.md)
 
 ### [Internal Releases](error.md)
 
