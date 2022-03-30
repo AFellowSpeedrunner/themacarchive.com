@@ -1,3 +1,3 @@
 ### Main Releases
 
-[Mac OS X 10.4](error.md)
+[Mac OS X 10.4 (Intel Version)](error.md)
