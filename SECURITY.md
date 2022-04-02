@@ -7,6 +7,6 @@ of the repository.
 
 I will try attempt to fix it and let GitHub know of the vulnerability of the page.
 
-## Your Privacy
+## How the Data We Collect is Used and Your Privacy
 
-No data is collected about you or is used to tell who you are or where you are. All we collect is how many people visit the repository, clone it, commit to it and fork it. That is all we collect as that is all we can see about the data.
+No data is collected about you or is used to tell who you are or where you are. All we collect is how many people visit the repository, clone it, commit to it and fork it. That is all we collect as that is all we can see about the data. Now you have peace of mind knowing that nothing personal about you is leaked to the internet.
