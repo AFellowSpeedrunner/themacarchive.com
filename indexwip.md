@@ -18,5 +18,7 @@ I decided to make the archive because I was looking for some versions of [Mac OS
 
 ### [Internal Releases](internal.md)
 
+### [Beta Releases](error.md)
+
 ### [Official Website links about the Operating Systems](website.md)
 
