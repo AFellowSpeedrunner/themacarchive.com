@@ -5,7 +5,7 @@ You can download different versions of [Mac OS](https://en.wikipedia.org/wiki/Ma
 All files are virus checked and hosted on [The Internet Archive](https://archive.org) by me!
 
 ### Updates 
-OS X 10.4 Intel Release will be avaliable soon!
+hehe entire site overhaul go brrrrrrrrrrrrrrrrrrrrrrrr-
 
 
 ### The backstory
