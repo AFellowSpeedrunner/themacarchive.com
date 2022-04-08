@@ -18,8 +18,6 @@ I decided to make the archive as I was looking for some versions of Mac OS and I
 
 ### [Internal Releases](internal.md)
 
-### [Beta Releases](beta.md)
-
 ### [Official Website links about the Operating Systems](website.md)
 
 ### [Security Policy](SECURITY.md)
