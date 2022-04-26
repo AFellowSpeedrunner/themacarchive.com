@@ -1,6 +1,6 @@
 ## Welcome to The Mac Archive!
 
-You can download different versions of Mac OS releases here such as Internal Builds, Beta Builds, PPC Builds and more here!
+You can download different versions of Mac OS releases here such as Internal Builds, Beta Builds (soon), PPC Builds and more here!
 
 All files are virus checked and hosted on [The Internet Archive](https://archive.org) by me!
 
